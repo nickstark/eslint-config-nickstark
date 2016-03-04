@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-nickstark",
+  "version": "1.0.0",
+  "description": "ESLint config for personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nickstark/eslint-config-nickstark.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "dev.nickstark@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickstark/eslint-config-nickstark/issues"
+  },
+  "homepage": "https://github.com/nickstark/eslint-config-nickstark#readme"
+}
